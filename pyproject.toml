@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "vedro-pairwise"
 version = "0.1.0"
-description = ""
+description = "Optimize test coverage by generating minimal test cases through pairwise parameter combinations"
 authors = [
     "Mickey Streicher <mickeystreicher@fastmail.us>"
 ]
